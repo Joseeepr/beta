@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="74",Fox sports 2.
+#EXTINF:-1 tvg-chno="74",Panregional de Oro golden
 
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
-#EXTINF:-1 tvg-chno="75",Novelisima
+#EXTINF:-1 tvg-chno="75",Televisa Puebla
 
-http://45.5.8.78:8000/play/a00i
+https://hls.youtb.workers.dev/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+
+#EXTINF:-1 tvg-chno="75",Cosmo TV
+http://91.126.141.201:1935/live/cosmoHD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="75"
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-chno="75"
-
-#EXTINF:-1 tvg-chno="75"
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="75"
 

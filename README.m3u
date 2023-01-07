@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="74",Fox sports 2.
+
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="75",Novelisima
+
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
